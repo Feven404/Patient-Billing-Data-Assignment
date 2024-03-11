@@ -5,7 +5,7 @@
 
 # Reason for Visit based by Walk-In
 <p> The graph below depicts the patient's reason for visit segmented by whether it was a walk in or not. </p>
-<img src="Images/Reason Based on Walk-In.png", height = 600, width = 1000>
+<img src="Images/Reason Based on Walk-In.png", height = 600, width = 800>
 
 # Reason for Visit by City
 <p> The graph below illustrates the reason of the visit segmented by city. </p>

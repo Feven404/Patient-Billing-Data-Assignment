@@ -1,7 +1,7 @@
 # Patient-Billing-Data-Assignment
 # Reason for Visit by Month 
 <p> The graph below shows the patient's visit date and reason. </p>
-<img src="Images/Reason For Visit by Month.png", height = 500, width = 700>
+<img src="Images/Reason For Visit by Month.png", height = 650, width = 700>
 
 # Reason for Visit based by Walk-In
 <p> The graph below depicts the patient's reason for visit segmented by whether it was a walk in or not. </p>

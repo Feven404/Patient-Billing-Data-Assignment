@@ -5,11 +5,11 @@
 
 # Reason for Visit based by Walk-In
 <p> The graph below depicts the patient's reason for visit segmented by whether it was a walk in or not. </p>
-<img src="Images/Reason for Visit by Walk-In.png", height = 600, width = 800>
+<img src="Images/Reason for Visit by Walk-In.png", height = 600, width = 1000>
 
 # Reason for Visit by City
 <p> The graph below illustrates the reason of the visit segmented by city. </p>
-<img src="Images/Reason for Visit based on City.png", height = 500, width = 700>
+<img src="Images/Reason for Visit based on City.png", height = 500, width = 800>
 
 # Reason for Visit based on Invoice Paid
 <p> The graph below depicts the patient's reason for visit segmented by whether their invoice is paid or not. </p>
@@ -17,4 +17,4 @@
 
 # Walk-In Based on City
 <p> The bar graph shown below depicts the walk-ins based on city.</p>
-<img src="Images/Walk-In Based on City.png", height = 500, width = 500>
+<img src="Images/Walk-In Based on City.png", height = 5600, width = 500>

@@ -17,4 +17,4 @@
 
 # Walk-In Based on City
 <p> The bar graph shown below depicts the walk-ins based on city.</p>
-<img src="Images/Walk-In Based on City.png", height = 5600, width = 500>
+<img src="Images/Walk-In Based on City.png", height = 600, width = 500>

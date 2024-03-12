@@ -13,7 +13,7 @@
 
 # Reason for Visit based on Invoice Paid
 <p> The graph below depicts the patient's reason for visit segmented by whether their invoice is paid or not. </p>
-<img src="Images/Reason for Visit by Paid Invoice.png", height = 300, width = 500>
+<img src="Images/Reason for Visit by Paid Invoice.png", height = 500, width = 800>
 
 # Walk-In Based on City
 <p> The bar graph shown below depicts the walk-ins based on city.</p>
